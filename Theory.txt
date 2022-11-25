@@ -1,0 +1,9 @@
+Analogy of nomenclature between the MySQL and MongoDB is as follows:
+
+    MySQL          MongoDB
+_____________________________
+ 1. Database      Database
+ 2. Table         Collection
+ 3. Real-data     Documents
+
+ Json (Java Script Object Notation) dataset is a complet dataset including the nested data like the 'list of records'.
